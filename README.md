@@ -1,3 +1,20 @@
+<h1 align="center">Welcome to Eric Ariyanto's Codebase</h1>
+
+<h3 align="center">A Full Stack Developer☕</h3>
+
+```javascript
+function aboutme() {
+    return {
+        "ID": "ericariyanto",
+        "email": "mail@ericariyanto.com",        
+        "hobbies": [
+            "typing", "travel", "game"
+        ],
+        "companies": ["Ideaprimes"]
+    }
+}
+```
+
 ### Hi there 👋
 
 **Greetings** my name is **Eric Ariyanto** just call me ✨ **eric** ✨ I am Full Stack Engineer ( Web and Mobile ),
