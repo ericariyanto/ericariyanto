@@ -1,24 +1,32 @@
-<h1 align="center">Welcome to Eric Ariyanto's Codebase</h1>
+<h1 align="center">Eric Ariyanto</h1>
 
 <h3 align="center">A Full Stack Developer☕</h3>
 
 ### Hi there 👋
 
-**Greetings** my name is **Eric Ariyanto** just call me ✨ **eric** ✨ I am Full Stack Engineer ( Web and Mobile ),
-currently living in Pontianak, West Borneo, Indonesia.
+Hi there! I'm Eric, a passionate Full Stack Developer based in Pontianak, West Borneo, Indonesia. I specialize in delivering innovative web and mobile solutions that solve real business problems. Whether it's optimizing your business operations or creating seamless user experiences, I’m here to help.
 
-I love to solve any business problem with my Experience in Programming.
+* 🌍 Location : Indonesia
+* 🖥️ Portfolio : [ericariyanto.com](http://ericariyanto.com)
+* ✉️ Contact : [mail@ericariyanto.com](mailto:mail@ericariyanto.com)
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [ericariyanto.com](http://ericariyanto.com)
-* ✉️  You can contact me at [mail@ericariyanto.com](mailto:mail@ericariyanto.com)
-* 🧠  I'm learning AWS, Flutter and Everything JavaScript
+Technologies I Love:
+- 🐘 **PHP**: My go-to language for web development due to its simplicity and wide demand.
+- 🐍 **Python**: I use Python for projects involving data analytics, Machine Learning, automation with Selenium, and scripting tasks.
+- 💻 **JavaScript**: I'm constantly learning and expanding my JavaScript expertise to stay on top of new trends.
+- ☁️ AWS: Currently upskilling in AWS to enhance my cloud development capabilities.
 
-What i do
-- 🐘 **PHP** is the programming language that i used most because it easy to deploy and most frequently requested by clients
-- 🐍 Sometimes I use **python** scripts for selenium based project or data analytics.
-- 🐧 Mostly i manage server on my own, using AWS, **Ubuntu/Centos** or **WHM/Cpanel**.
-- 📉 Mostly my project using *gitlab*, i host public git on Github, private git on Gitlab. I manage how developer merge the project and do code review.
+What I Do:
+- **Full Stack Development**: I build end-to-end solutions, from front-end user interfaces to back-end services and databases.
+- **Server Management**: I have extensive experience in managing and deploying servers using AWS, Ubuntu, CentOS, and WHM/CPanel.
+- **Version Control & Code Review**: I manage GitLab for version control, ensuring clean code management and efficient workflows through regular code reviews.
+
+Why Work With Me?
+- **Client-Focused Solutions**: I don’t just write code; I create solutions tailored to your business needs, ensuring your objectives are met.
+- **Reliable and Efficient**: I am committed to timely project delivery and maintaining high standards of work, no matter the complexity.
+- **Continuous Learning**: I stay ahead of industry trends by continuously expanding my knowledge, ensuring the best possible outcome for every project.
+
+Let’s work together to bring your project to life! Feel free to contact me for any inquiries or collaborations.
 
 ### Skills
 
